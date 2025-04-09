@@ -155,7 +155,7 @@ I found that Botium Toys will need to adhere to the following standards:
 
 TO: IT Manager, Stakeholders
 
-FROM: Saiyaed Maqbool \
+FROM: Saiyad Maqbool \
 DATE: 04/08/2025\
 SUBJECT: Internal IT Audit Findings and Recommendations
 
@@ -246,9 +246,9 @@ Integrating an IDS and AV software into current systems will give the ability to
 To secure assets at Botium Toys' physical location, locks and CCTV should be used to secure physical assets and to monitor for potential threats. Having a time-controlled safe, adequate lighting, and signage indicating alarm service provider will further improve Botium Toys' security posture.
    
 # Conclusion  <a name="conclusion">
- This concludes my mock security audit writeup, I hope you found it useful and enlightening as I have. If there is any constructive feedback or  suggestions to improve and include, just let me know. 
+ This concludes the mock security audit writeup.
 
-**Self-Evaluation**: Overall, I feel I did adequately in finding what controls are top priority and need implementation immediately in reducing risk and why Botium Toys would need to comply to the regulations and standards I initially picked on my first try. I really loved the challenge of this assignment and tested what I have learned in my studies and hands-on learning. 
+**Self-Evaluation**: Overall, I feel I did adequately in finding what controls are top priority and instant implementation in risk reeduction and why Botium Toys would need to comply to the regulations and standards I initially picked on my first try. 
 
 **Lessons learned**: 
    
